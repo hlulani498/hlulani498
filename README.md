@@ -7,16 +7,14 @@ Welcome to my GitHub profile! I'm a passionate IT professional and Cybersecurity
 ## 🛠 About Me
 - 🔹 **Current Focus:** Cybersecurity, Penetration Testing, IT Support, Networking
 - 🔹 **Education:** IT Technical Support (NQF 4), IT System Support (NQF 5)
-- 🔹 **Certifications:** Microsoft SC-900, CompTIA PenTest+ (in progress)
+- 🔹 **Certifications:** Microsoft SC-900, CompTIA Security+ (in progress)
 - 🔹 **Passions:** Ethical hacking, network security, programming, photography, and building small businesses
 - 🔹 **Hobbies:** Fitness, reading, personal growth, and creating digital content
 
 ---
 
 ## 💻 Tech Stack
-- **Programming & Scripting:** Python, Bash
 - **Networking & Security:** TCP/IP, VPNs, Firewalls, Wireshark, Nmap
-- **Web & Cloud:** HTML, CSS, Azure
 - **Tools & Platforms:** TryHackMe, HackTheBox, Git, GitHub, Linux (Ubuntu, Kali)
 - **Photography & Design:** Photoshop, CapCut, Premiere Pro, Wondershare
 
